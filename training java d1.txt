@@ -1,0 +1,7 @@
+Catatan :
+Trend Programming adalah micro service -> Kecil, banyak
+Easy scaling 
+Deployment dibuat auto scaling dengan dibatasi dengan threshold dll, bisa juga dengan down scaling.
+
+Coding harus bisa support clustering.
+Session harus menggunakan database bisa menggunakan mancache, reddist    
