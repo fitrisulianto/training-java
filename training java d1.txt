@@ -4,7 +4,13 @@ Easy scaling
 Deployment dibuat auto scaling dengan dibatasi dengan threshold dll, bisa juga dengan down scaling.
 
 Coding harus bisa support clustering.
+<<<<<<< HEAD
 Session harus menggunakan database bisa menggunakan mancache, reddist    
 
 * ini tambahan berikutnya *
 saya coba mencoba menambahkan
+=======
+Session harus menggunakan database bisa menggunakan mancache, reddist 
+
+tambah lagi catatan
+>>>>>>> 9b262a0780023d2f6535ba0b825bef75b97634ae
